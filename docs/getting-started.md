@@ -13,8 +13,7 @@ In this tutorial, you:
 3. [Configure an aggregating index](./getting-started.html#configure-an-aggregating-index)
 
 
-{: .note}
-In order to perform this tutorial, you need to have an active Firebolt account. Contact us via `hello@firebolt.io` in order to create one and see Firebolt in action.
+To perform this tutorial, you need to have an active Firebolt account. Contact us at `hello@firebolt.io` in order to create one and see Firebolt in action.
 
 ## Create your first database
 
